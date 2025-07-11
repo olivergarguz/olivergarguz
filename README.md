@@ -1,6 +1,6 @@
 ## Hola a Todos 👋
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="370" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Yo_soy+Oliver+Garcia;Ingeniero_en_Sistemas">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Yo_soy+Oliver+Garcia+(oli);Ingeniero_en_Sistemas">
 ### 👨‍💻 Sobre mí
 - 🧑‍🎓 Estudio Ingenieria de Sistemas
 - 👨‍💻 Me gusta Programar  
